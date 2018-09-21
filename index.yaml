@@ -3,11 +3,11 @@ entries:
   kube-bro:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-20T09:24:46.266644624-07:00
+    created: 2018-09-21T10:34:46.564972798-07:00
     description: A Helm chart providing Bro infrastructure for Kubernetes
-    digest: 6f43dda25dee9706984fa7d9f68fe2c576a6db3d4c5cf60ace810573aa0034e2
+    digest: 601ea285d68c4e49dbda0af4bca8ed92abdb5f0d7b27cbe227341253e8ff865b
     name: kube-bro
     urls:
     - kube-bro-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-20T09:24:46.264210291-07:00
+generated: 2018-09-21T10:34:46.563519226-07:00
